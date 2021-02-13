@@ -2,7 +2,8 @@
 This repo contains UC Berkeley's AI Pacman projects. 
 These projects rely on various artificial intelligence algorithms and concepts which are then applied to Pacman including Q Learning, Markov Models, Graph Search, Adversarial Search, and Heuristics. 
 
-For all of the projects, there is an autograder.py file that 
+For all of the projects, there is an autograder.py file that runs tests and evaluates the implementation of each algorithm/question.
+
 Project 1: This project involves using graph search algorithms (BFS, DFS, A*...) and cost/heuristic functions to navigate the Pacman maze. 
 The implementation is found in the search.py and searchAgents.py files.
 
